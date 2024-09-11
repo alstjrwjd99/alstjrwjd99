@@ -26,7 +26,7 @@
 
 ### 🎯 Future Goals
 
-- 소프트웨어 개발, 제품 설계 및 데이터 분석 분야에서 폭넓은 기술을 보유한 **π 모양의 엔지니어**가 되는 것을 목표로 합니다.
+- 소프트웨어 개발, 기획 분야에서 폭넓은 기술을 보유한 **π 모양의 엔지니어**가 되는 것을 목표로 합니다.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=90&section=header&text=&fontSize=0" width="100%"/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
