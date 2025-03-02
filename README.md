@@ -1,5 +1,7 @@
 ## 👋 Hi there! I'm 정민석
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falstjrwjd99&count_bg=%23A2ECFF&title_bg=%230094FF&icon=tapas.svg&icon_color=%23C2C2C2&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 저는 우아한 코드를 지향하며 사용자 친화적인 웹 및 모바일 애플리케이션을 구축하는 **풀스택 개발자**입니다.
 
 ---
@@ -24,9 +26,7 @@
 
 ---
 
-### 🎯 Future Goals
-
-- 소프트웨어 개발, 기획 분야에서 폭넓은 기술을 보유한 **π 모양의 엔지니어**가 되는 것을 목표로 합니다.
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=howyoulikethat)](https://solved.ac/howyoulikethat/)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alstjrwjd99&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width="50%" />
