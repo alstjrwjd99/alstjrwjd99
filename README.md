@@ -1,7 +1,5 @@
 ## 👋 Hi there! I'm 정민석
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falstjrwjd99&count_bg=%23A2ECFF&title_bg=%230094FF&icon=tapas.svg&icon_color=%23C2C2C2&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 저는 우아한 코드를 지향하며 사용자 친화적인 웹 및 모바일 애플리케이션을 구축하는 **풀스택 개발자**입니다.
 
 ---
