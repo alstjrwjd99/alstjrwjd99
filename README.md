@@ -4,7 +4,7 @@
 
 ---
 
-### 🚀 Skills & Technologies
+### ✅ Skills & Technologies
 
 - **Languages:**  
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white)  ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)  ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
@@ -21,6 +21,12 @@
 
 **React** 
 - 성능 최적화 및 대규모 웹 애플리케이션을 더 잘 이해하기 위해 React에 대한 지식을 쌓고 있습니다.
+
+---
+
+### 🧩 My Products
+
+- 🪙 [코인 게임 - 숫자 10 맞추기 퍼즐](https://coingame0.netlify.app/class)
 
 ---
 
