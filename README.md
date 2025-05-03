@@ -1,26 +1,42 @@
 ## 👋 Hi there! I'm 정민석
 
-저는 우아한 코드를 지향하며 사용자 친화적인 웹 및 모바일 애플리케이션을 구축하는 **풀스택 개발자**입니다.
+일상의 문제를 코드로 해결하고, 모든 것을 효율적으로 자동화하는 것을 즐기는 개발자입니다.
 
 ---
-
 ### ✅ Skills & Technologies
 
-- **Languages:**  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white)  ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)  ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
+**Languages:**  
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 
-- **Frameworks & Libraries:**  
-  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)  ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)  ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
+**Frameworks & Libraries:**  
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
 
-- **Tools & Platforms:**  
-  ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white)  ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) 
+**Tools & Platforms:**  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white)
+
+**Collaboration & Design:**  
+![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)
+![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
+![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white)
 
 ---
 
 ### 🌱 Currently Learning
 
-**React** 
-- 성능 최적화 및 대규모 웹 애플리케이션을 더 잘 이해하기 위해 React에 대한 지식을 쌓고 있습니다.
+**Spring Boot**  
+- 백엔드 시스템 구축과 RESTful API 개발을 위해 Spring Boot를 학습하고 있습니다.
+
 ---
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=howyoulikethat)](https://solved.ac/howyoulikethat/)
