@@ -34,8 +34,8 @@
 
 ### 🌱 Currently Learning
 
-**Spring Boot**  
-- 백엔드 시스템 구축과 RESTful API 개발을 위해 Spring Boot를 학습하고 있습니다.
+React Native, Django
+- 풀스택 개발을 위해 React Native와 Django를 공부하고 있습니다.
 
 ---
 
