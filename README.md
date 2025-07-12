@@ -34,8 +34,8 @@
 
 ### 🌱 Currently Learning
 
-React Native, Django
-- 풀스택 개발을 위해 React Native와 Django를 공부하고 있습니다.
+Next, Django
+- 풀스택 개발을 위해 Next와 Django를 공부하고 있습니다.
 
 ---
 
