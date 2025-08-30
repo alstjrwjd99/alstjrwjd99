@@ -6,31 +6,19 @@
 ### ✅ Skills & Technologies
 
 **Languages:**  
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&logoWidth=20)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)  
-![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&logoWidth=20) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
 
 **Frameworks & Libraries:**  
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white)  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)  
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)  
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)  
-![Django REST](https://img.shields.io/badge/-DRF-E34F4F?logo=django&logoColor=white)  
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![Django REST](https://img.shields.io/badge/-DRF-E34F4F?logo=django&logoColor=white)  
 
 **Tools & Platforms:**  
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&logoWidth=20)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)  
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white)  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&logoWidth=20) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white) 
 
 **Collaboration & Design:**  
-![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)  
-![Notion](https://img.shields.io/badge/-Notion-505050?logo=notion&logoColor=white)  
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)  
-![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white)  
+![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white) 
+![Notion](https://img.shields.io/badge/-Notion-505050?logo=notion&logoColor=white) 
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) 
+![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white) 
 
 ---
 
