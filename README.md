@@ -29,7 +29,7 @@ Next, Django
 
 ### 👇👇👇 진행중인 프로젝트 👇👇👇
 
-https://agasafe.org//l/github
+https://agasafe.org/l/github
 
 ---
 
