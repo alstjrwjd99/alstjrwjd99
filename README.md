@@ -28,7 +28,8 @@ Next, Django
 - 풀스택 개발을 위해 NextJS와 DRF를 공부하고 있습니다.
 
 ### 👇👇👇 진행중인 프로젝트 👇👇👇
-https://aga-blog.vercel.app/
+
+https://agasafe.org//l/github
 
 ---
 
