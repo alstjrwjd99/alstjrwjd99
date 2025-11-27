@@ -30,7 +30,6 @@ https://agasafe.org/l/github
 
 ### 🌱 현재 주로 하고 있는 스킬
 
-Next, Nest
 - 풀스택 개발을 위해 NextJS와 NestJS를 공부하고 있습니다.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
