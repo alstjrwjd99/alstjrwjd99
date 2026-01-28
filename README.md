@@ -26,8 +26,6 @@
 
 보이스 피싱 예방 시뮬레이션 : https://agasafe.org/l/github
 
-전애인 찾기 : https://www.rex-signal.com/
-
 ---
 
 ### 🌱 현재 주로 하고 있는 스킬
